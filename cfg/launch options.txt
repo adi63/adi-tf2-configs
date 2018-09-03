@@ -1,0 +1,7 @@
+-novid -nojoy -nosteamcontroller -noff -softparticlesdefaultoff -reuse -console -threads 3 +m_smooth 0 -limitvsconst -small
+-novid -nojoy -nosteamcontroller -noff -softparticlesdefaultoff -reuse -console -limitvsconst
+
+
+-novid -nojoy -nosteamcontroller -softparticlesdefaultoff -reuse
+
+-novid -default -autoconfig +host_writeconfig +mat_savechanges +quit
